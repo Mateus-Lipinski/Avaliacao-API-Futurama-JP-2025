@@ -9,3 +9,25 @@ header {
 h1 {
     margin: 0;
 }
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+    border: 3px solid #238faf;
+    border-radius: 4px;
+    padding: 4px;
+    transition: 0.2s;
+}
+
+a:hover {
+    scale: 110%;
+    background-image: url('https://media.tenor.com/OJK9HzEzRO8AAAAM/dancing.gif');
+    background-size: 50px;
+}
