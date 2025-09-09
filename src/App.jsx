@@ -13,8 +13,8 @@ function App() {
       <Header />
       <Routes>
         <Route path='/' element={<Futurama />}/>
-        <Route path='/About' element={<About />}/>
-        <Route path='/Random' element={<Random />}/>
+        <Route path='/about' element={<About />}/>
+        <Route path='/random' element={<Random />}/>
       </Routes>
       <Footer />
     </>
