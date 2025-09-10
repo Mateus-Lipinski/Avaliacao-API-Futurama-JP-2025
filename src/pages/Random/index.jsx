@@ -30,6 +30,7 @@ export default function Random() {
 
     return(
         <main>
+            <button onClick={carregar}>Estou com sorte!</button>
             <div className='container'>
                 {conteudo}
             </div>
