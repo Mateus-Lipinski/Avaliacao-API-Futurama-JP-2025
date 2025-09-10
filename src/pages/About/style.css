@@ -1,0 +1,13 @@
+#sobre{
+    section {
+        display: flex;
+        gap: 3em;
+    }
+    
+    div {
+        border: 4px solid #238faf;
+        border-radius: 8px;
+        padding: 1em;
+        width: 500px;
+    }
+}
