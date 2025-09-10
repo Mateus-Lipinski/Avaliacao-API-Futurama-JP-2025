@@ -1,0 +1,20 @@
+main {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    position: fixed;
+    top: 200px;
+    color: #ffffff;
+    border: 3px solid #238faf;
+    border-radius: 8px;
+    padding: 4px;
+    transition: 0.2s;
+}
+
+button:hover {
+    scale: 110%;
+    background-image: url('https://media.tenor.com/OJK9HzEzRO8AAAAM/dancing.gif');
+    background-size: 50px;
+}
