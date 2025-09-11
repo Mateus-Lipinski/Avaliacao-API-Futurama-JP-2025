@@ -2,7 +2,7 @@
   "name": "avaliacao-api-futurama-jp-2025",
   "private": true,
   "version": "0.0.0",
-  "homepage": "Avaliacao-API-Futurama-JP-2025",
+  "homepage": "avaliacao-api-futurama-jp-2025",
   "type": "module",
   "scripts": {
     "dev": "vite",
